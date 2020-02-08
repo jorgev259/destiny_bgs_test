@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/destiny_bgs/static/css/main.1933ae40.chunk.css",
+    "main.js": "/destiny_bgs/static/js/main.575ccc78.chunk.js",
+    "main.js.map": "/destiny_bgs/static/js/main.575ccc78.chunk.js.map",
+    "runtime-main.js": "/destiny_bgs/static/js/runtime-main.16a3dde2.js",
+    "runtime-main.js.map": "/destiny_bgs/static/js/runtime-main.16a3dde2.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/destiny_bgs/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.18099b29.chunk.js": "/destiny_bgs/static/js/2.18099b29.chunk.js",
+    "static/js/2.18099b29.chunk.js.map": "/destiny_bgs/static/js/2.18099b29.chunk.js.map",
+    "index.html": "/destiny_bgs/index.html",
+    "precache-manifest.0b1fa6735c47f867cb198bc4b7471aea.js": "/destiny_bgs/precache-manifest.0b1fa6735c47f867cb198bc4b7471aea.js",
+    "service-worker.js": "/destiny_bgs/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/destiny_bgs/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.1933ae40.chunk.css.map": "/destiny_bgs/static/css/main.1933ae40.chunk.css.map",
+    "static/js/2.18099b29.chunk.js.LICENSE.txt": "/destiny_bgs/static/js/2.18099b29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a3dde2.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.18099b29.chunk.js",
+    "static/css/main.1933ae40.chunk.css",
+    "static/js/main.575ccc78.chunk.js"
+  ]
+}
