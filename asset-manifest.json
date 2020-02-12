@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/destiny_bgs_test/static/css/main.f3e57551.chunk.css",
-    "main.js": "/destiny_bgs_test/static/js/main.00570ff2.chunk.js",
-    "main.js.map": "/destiny_bgs_test/static/js/main.00570ff2.chunk.js.map",
+    "main.css": "/destiny_bgs_test/static/css/main.e92b6bf8.chunk.css",
+    "main.js": "/destiny_bgs_test/static/js/main.935413d1.chunk.js",
+    "main.js.map": "/destiny_bgs_test/static/js/main.935413d1.chunk.js.map",
     "runtime-main.js": "/destiny_bgs_test/static/js/runtime-main.9177094a.js",
     "runtime-main.js.map": "/destiny_bgs_test/static/js/runtime-main.9177094a.js.map",
     "static/css/2.47e06e2e.chunk.css": "/destiny_bgs_test/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.18099b29.chunk.js": "/destiny_bgs_test/static/js/2.18099b29.chunk.js",
-    "static/js/2.18099b29.chunk.js.map": "/destiny_bgs_test/static/js/2.18099b29.chunk.js.map",
+    "static/js/2.3aa2781b.chunk.js": "/destiny_bgs_test/static/js/2.3aa2781b.chunk.js",
+    "static/js/2.3aa2781b.chunk.js.map": "/destiny_bgs_test/static/js/2.3aa2781b.chunk.js.map",
     "index.html": "/destiny_bgs_test/index.html",
-    "precache-manifest.bbd6a937e82c3d87f8ac91c8fcf604b4.js": "/destiny_bgs_test/precache-manifest.bbd6a937e82c3d87f8ac91c8fcf604b4.js",
+    "precache-manifest.adc36d8e4a4ed4b2c4c00e8582384791.js": "/destiny_bgs_test/precache-manifest.adc36d8e4a4ed4b2c4c00e8582384791.js",
     "service-worker.js": "/destiny_bgs_test/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/destiny_bgs_test/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.f3e57551.chunk.css.map": "/destiny_bgs_test/static/css/main.f3e57551.chunk.css.map",
-    "static/js/2.18099b29.chunk.js.LICENSE.txt": "/destiny_bgs_test/static/js/2.18099b29.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/destiny_bgs_test/static/media/Futura LT Medium.91717717.woff"
+    "static/css/main.e92b6bf8.chunk.css.map": "/destiny_bgs_test/static/css/main.e92b6bf8.chunk.css.map",
+    "static/js/2.3aa2781b.chunk.js.LICENSE.txt": "/destiny_bgs_test/static/js/2.3aa2781b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/destiny_bgs_test/static/media/bar_bg.72b5d715.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9177094a.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.18099b29.chunk.js",
-    "static/css/main.f3e57551.chunk.css",
-    "static/js/main.00570ff2.chunk.js"
+    "static/js/2.3aa2781b.chunk.js",
+    "static/css/main.e92b6bf8.chunk.css",
+    "static/js/main.935413d1.chunk.js"
   ]
 }
